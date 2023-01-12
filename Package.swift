@@ -26,7 +26,7 @@ let package = Package(
             name: "venous-net-base",
             dependencies: ["venous-alamofire"]),
         .testTarget(
-            name: "venous-net-base-Tests",
+            name: "venous-net-baseTests",
             dependencies: ["venous-net-base"]),
     ]
 )
