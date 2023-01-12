@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://git.ucloudadmin.com/ios_moudle/Alamofire.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "89b3df7159c93d4bfbccba320e0ac95cb4f22607"
+      }
+    }
+  ],
+  "version" : 2
+}
