@@ -3,7 +3,7 @@
     {
       "identity" : "alamofire",
       "kind" : "remoteSourceControl",
-      "location" : "https://git.ucloudadmin.com/ios_moudle/Alamofire.git",
+      "location" : "https://github.com/dongjycode/venous-alamofire.git",
       "state" : {
         "branch" : "master",
         "revision" : "89b3df7159c93d4bfbccba320e0ac95cb4f22607"
